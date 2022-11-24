@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas_datareader as data
 from keras.models import load_model
 import streamlit as st
-import tensorflow.compat.v2 as tf
+import tensorflow as tf
 
 
 start = '2010-01-01'
